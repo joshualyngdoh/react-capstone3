@@ -56,7 +56,7 @@
 
 ## 🚀 Live Demo <a name="To-Do-List"></a>
 
-- [Live Demo Link](http://joshualyngdoh.github.io/react-capstone3/)
+- [Live Demo Link](https://webapp-metrics.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
