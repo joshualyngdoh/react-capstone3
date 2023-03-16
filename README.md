@@ -30,7 +30,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math-Magician] <a name="about-project"></a>
+# 📖 [Metrics-Webapp] <a name="about-project"></a>
 
 **[Metrics Webapp]** is an application that provides information on the various crypto platforms.
 
