@@ -60,12 +60,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Presentation Video <a name="Metrics Webapp"></a>
-
-- [Presentation Video Link](https://www.loom.com/share/598f64597cf84e6ebaae698c03c4478b)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
