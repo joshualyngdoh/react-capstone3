@@ -56,7 +56,7 @@
 
 ## 🚀 Live Demo <a name="To-Do-List"></a>
 
-- [Live Demo Link](https://joshualyngdoh.github.io/math_magician/)
+- [Live Demo Link](http://joshualyngdoh.github.io/react-capstone3/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
