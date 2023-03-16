@@ -62,7 +62,7 @@
 
 ## 🚀 Presentation Video <a name="Metrics Webapp"></a>
 
-- [Presentation Video Link](https://www.loom.com/share/4f1f3ccea338435489695b34decd0cf0)
+- [Presentation Video Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
