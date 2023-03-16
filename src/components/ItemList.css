@@ -11,6 +11,20 @@
   outline: none;
 }
 
+.input-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 10px;
+}
+
+.font {
+  color: aliceblue;
+  justify-content: space-between;
+  padding-right: 10px;
+  font-size: 1.5rem;
+}
+
 ul {
   display: grid;
   grid-template-columns: 1fr 1fr;

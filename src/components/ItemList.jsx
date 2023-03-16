@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faMicrophone, faGear } from '@fortawesome/free-solid-svg-icons';
 import { getExchangesAsync } from '../redux/exchange/exchangeSlice';
 import ItemCard from './ItemCard';
 import './ItemList.css';
@@ -34,12 +36,16 @@ const ItemList = () => {
 
   return (
     <div className="list-wrapper">
-      <input
-        type="search"
-        className="search"
-        onChange={handleChange}
-        placeholder="Search exchanges"
-      />
+      <div className="input-container">
+        <input
+          type="search"
+          className="search"
+          onChange={handleChange}
+          placeholder="Search exchanges"
+        />
+        <FontAwesomeIcon icon={faMicrophone} className="font" />
+        <FontAwesomeIcon icon={faGear} className="font" />
+      </div>
       <ul>
         {
           exchangeData.map((exchange) => (

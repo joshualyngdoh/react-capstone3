@@ -102,7 +102,12 @@ Install this project with: Github
 
 To run the project, execute the following command:
 
-git clone https://github.com/joshualyngdoh/react-capstone3.git
+npm install
+npm run dev
+
+To test the project using react testing library, execute the following command:
+
+npm run test
 
 ### Run tests
 
@@ -153,7 +158,7 @@ Drop a ⭐️ if you like this project.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and the its global community.
+I would like to thank the whole Microverse community for their help and contributions towards this project and also to the original designer Nelson Sakwa on Behance for such a wonderful design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
